@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_244146_test_1.licenses_user</name>
+        <suffix>licenses_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-24 18:17:41</sys_created_on>
+        <sys_id>8bc826f8dbe71300750359d0cf9619d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_244146_test_1.licenses_user</sys_name>
+        <sys_package display_value="Test 1" source="x_244146_test_1">06876afcdb271300750359d0cf961969</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test 1">06876afcdb271300750359d0cf961969</sys_scope>
+        <sys_update_name>sys_user_role_8bc826f8dbe71300750359d0cf9619d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-24 18:17:41</sys_updated_on>
+    </sys_user_role>
+</record_update>

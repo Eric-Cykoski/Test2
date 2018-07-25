@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script/>
+        <description/>
+        <direct>true</direct>
+        <endpoint>x_244146_test_1_Test 1.do</endpoint>
+        <html><![CDATA[<html>
+   <head>
+      <meta charset="UTF-8"></meta>
+      <title>Test</title>
+   </head>
+   <body>
+
+      <div id="PageHeader"></div>
+
+      <div id="PageContent"></div>
+
+      <div id="PageFooter"></div>
+
+<script type="text/javascript" src="x_244146_component.JQuery-3.3.1.jsdbx"></script>
+<script type="text/javascript" src="x_244146_component.JQueryUI-1.12.1.jsdbx"></script>
+<script>
+$(document).ready(function()
+{
+alert("hi");
+}
+);
+</script>
+</body>
+</html>]]></html>
+        <name>Test 1</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-24 18:52:35</sys_created_on>
+        <sys_id>81a0f2fcdbe71300750359d0cf96195a</sys_id>
+        <sys_mod_count>17</sys_mod_count>
+        <sys_name>Test 1</sys_name>
+        <sys_package display_value="Test 1" source="x_244146_test_1">06876afcdb271300750359d0cf961969</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test 1">06876afcdb271300750359d0cf961969</sys_scope>
+        <sys_update_name>sys_ui_page_81a0f2fcdbe71300750359d0cf96195a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-24 20:32:31</sys_updated_on>
+    </sys_ui_page>
+</record_update>
